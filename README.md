@@ -1,6 +1,6 @@
 ### Hello World, I'm Rashid Majeed - 👋 
 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif?cid=ecf05e47glww50lrj0vo1ve88izhnxgmscio3ogz2i753j3t&rid=giphy.gif&ct=g" width="500" height="320" />
+ <img align="right" alt="GIF" src="http://studiopixel.in/wp-content/uploads/2017/11/18a4949fc9c8067172d3b96e302e7097.gif" width="450" height="320" />
 
 ## I'm a Software Engineer, Tester and DevOps Enthusiastic !!
 
