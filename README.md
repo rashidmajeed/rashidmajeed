@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="http://studiopixel.in/wp-content/uploads/2017/11/18a4949fc9c8067172d3b96e302e7097.gif" width="450" height="320" />
 
-## I'm a Software Engineer, Tester and DevOps Enthusiastic !!
+## DevOps Engineer with a passion to share knowledge and gaining more   👋👋 
 
 - 🔭 Currently working with Humanbee and VectorCode 👋👋
 - 🌱 Working on DevOps & Cloud Projects 🤣
