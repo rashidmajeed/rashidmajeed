@@ -5,10 +5,10 @@
 ## I'm a Software Engineer, Tester and DevOps Enthusiastic !!
 
 - 🔭 Currently working with Humanbee and VectorCode 👋👋
-- 🌱 Currently preparing AWS DevOps Engineer Certification 🤣
+- 🌱 Working on DevOps & Cloud Projects 🤣
 - 👯 Always prefer team work that is useful to upgrade skills
-- ✍ You can see my history and work here [portfolio]
-- 🥅 2021 Goals: Contribute more on Cloud native projects
+- ✍ I do continous learning for new in denmand tech sklls 
+- 🥅 2022 Goals: Contribute more on Cloud native projects & CKA/CKAD Certifications
 - ⚡ Fun fact: I love to watch movies / Cooking / Traveling
 
 ### Spotify Playing 🎧
@@ -65,5 +65,4 @@
 
 [instagram]: https://www.instagram.com/rashidmajeed/
 [linkedin]: https://linkedin.com/in/rashidmajeed
-[portfolio]: https://portfolio-rashidmajeed.netlify.app/
 [youtube]: https://youtube.com/
