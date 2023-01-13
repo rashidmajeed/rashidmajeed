@@ -4,7 +4,7 @@
 
 ## DevOps Engineer with a passion to share knowledge and gaining more   👋👋 
 
-- 🔭 Currently working with Humanbee and VectorCode 👋👋
+- 🔭 Currently working with Volvo Cars Sweden 👋👋
 - 🌱 Working on DevOps & Cloud Projects 🤣
 - 👯 Always prefer team work that is useful to upgrade skills
 - ✍ I do continous learning for new in denmand tech sklls 
