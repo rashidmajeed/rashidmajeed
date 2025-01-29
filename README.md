@@ -8,7 +8,7 @@
 - 🌱 Working on DevOps & Cloud Projects 🤣
 - 👯 Always prefer team work that is useful to upgrade skills
 - ✍ I do continous learning for new in denmand tech sklls 
-- 🥅 2024 Goals: Contribute more on Cloud native projects & CKAD Certification
+- 🥅 2025 Goals: platform engineering Deep dive & AIOps
 - ⚡ Fun fact: I love to watch movies / Cooking / Traveling
 
 ### Spotify Playing 🎧
