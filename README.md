@@ -2,13 +2,13 @@
 
  <img align="right" alt="GIF" src="http://studiopixel.in/wp-content/uploads/2017/11/18a4949fc9c8067172d3b96e302e7097.gif" width="450" height="320" />
 
-## DevOps Engineer with a passion to share knowledge and gaining more   👋👋 
+## Senior Cloud Architect with a passion to share knowledge and gaining more   👋👋 
 
-- 🔭 Currently working with Volvo Cars Sweden 👋👋
-- 🌱 Working on DevOps & Cloud Projects 🤣
+- 🔭 Currently working with Aeven Denmark 👋👋
+- 🌱 Working on DevOps & hybrid, Multi cloud Projects 🤣
 - 👯 Always prefer team work that is useful to upgrade skills
 - ✍ I do continous learning for new in denmand tech sklls 
-- 🥅 2026 Goals: platform engineering Deep dive & AIOps
+- 🥅 2026 Goals: Cloud, platform engineering Deep dive & AIOps
 - ⚡ Fun fact: I love to watch movies / Cooking / Traveling
 
 ### Spotify Playing 🎧
