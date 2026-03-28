@@ -8,7 +8,7 @@
 - 🌱 Working on DevOps & Cloud Projects 🤣
 - 👯 Always prefer team work that is useful to upgrade skills
 - ✍ I do continous learning for new in denmand tech sklls 
-- 🥅 2025 Goals: platform engineering Deep dive & AIOps
+- 🥅 2026 Goals: platform engineering Deep dive & AIOps
 - ⚡ Fun fact: I love to watch movies / Cooking / Traveling
 
 ### Spotify Playing 🎧
